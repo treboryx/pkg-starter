@@ -1,1 +1,1 @@
-export const pkg = 'pkg-starter'
+export const pkg = 'pkg-starter';
